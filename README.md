@@ -4,7 +4,7 @@ Hi my name is Hatim! :smiling_face_with_three_hearts:
 
 This program allows you to enter an expression in the command line and it will show you the result.
 
-# **I have divided it into 3 parts:**
+# **I have divided it into 3 parts::file_cabinet:**
 
 - enter the expression and evaluate it
 
