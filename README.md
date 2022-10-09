@@ -9,11 +9,11 @@
 2-convert expression to postfix*
 3-calculate the result
     
-*in order to fully understand the second part, I recommend that you consult these two blogs:
+*in order to fully understand the second part, [I recommend that you consult these two blogs](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
 
-    https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/
+    
 
-    https://www.includehelp.com/c/infix-to-postfix-conversion-using-stack-with-c-program.aspx
+    <!-- https://www.includehelp.com/c/infix-to-postfix-conversion-using-stack-with-c-program.aspx -->
 
 #**Edge cases:**
 
