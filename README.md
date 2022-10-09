@@ -1,4 +1,4 @@
-# expression calculator:pencil2:
+# Expression calculator:pencil2:
 
 Hi my name is Hatim! :smiling_face_with_three_hearts:
 
