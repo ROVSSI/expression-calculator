@@ -1,4 +1,4 @@
-# Expression calculator:pencil2:
+# Expression calculator:
 
 Hi my name is Hatim! :smiling_face_with_three_hearts:
 
@@ -20,7 +20,7 @@ This program allows you to enter an expression in the command line and it will s
 
 - numbers you entered must be between 0->9.
 
-## *Notes::thought_balloon:*
+## *Notes:*
 - Going forward, I will work to fix these bugs as soon as possible. I will be grateful to receive your comments on my work.
 
     I appreciate the time you gave me. Have a good day.:innocent:
